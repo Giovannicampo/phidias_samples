@@ -41,3 +41,7 @@ To run these samples, you need to have Python installed on your machine, along w
    ```
 
 To deeply understand the inner workings of the PHIDIAS framework, its syntax, and the theoretical background, please refer to the following official resources:
+
+- [Paper](https://ceur-ws.org/Vol-2502/paper5.pdf)
+
+- [Pitch](https://pitch.com/v/phidias-mzj4tg)
